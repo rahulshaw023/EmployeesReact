@@ -1,0 +1,41 @@
+.itemin{
+
+  margin:5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border:0;
+  border-radius: 5px;
+  height:20px;
+  background-color: #415858;
+  color:white;
+  
+  font-family: 'Trebuchet MS';
+}
+
+.delbutton{
+   margin:5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border:0;
+  border-radius: 5px;
+  color:white;
+  background-color: #e64219;
+
+
+}
+
+.editbutton{
+   margin:5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border:0;
+  border-radius: 5px;
+  color:white;
+  background-color: #3d99f5;
+}

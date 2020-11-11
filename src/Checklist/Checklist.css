@@ -1,0 +1,35 @@
+
+.additem{
+
+  margin:10px;
+  padding:5px;
+  border:0;
+  border-radius: 5px;
+  height:20px;
+}
+
+.addbutton{
+
+  /* margin:10px;
+  padding:10px;
+  border:0;
+  border-radius: 5px;
+  height:20px; */
+  padding:7px;
+  border:0;
+  border-radius: 5px;
+  color:white;
+  background-color: #00b33c;
+
+
+
+}
+
+.list{
+
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+}
