@@ -1,3 +1,4 @@
-# react-n2jkds
+#React APP
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-n2jkds)
+## To run: npm install then npm start
+## Running at: https://react-n2jkds.stackblitz.io
