@@ -55,7 +55,7 @@ class Checklist extends React.Component {
               onChange={this.inputHandler}
             />
             <button className="addbutton" onClick={this.addHandler}>
-              Add Employee
+              Add Emp
             </button>
           </div>
         </center>
